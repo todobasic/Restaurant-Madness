@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:icon="@mipmap/round_home_black_24dp"
+        android:title="Home"/>
+
+    <item android:id="@+id/nav_foodmenu"
+        android:icon="@mipmap/round_restaurant_black_24dp"
+        android:title="Food Menu"/>
+
+    <item android:id="@+id/nav_bookings"
+        android:icon="@mipmap/round_menu_book_black_24dp"
+        android:title="Bookings"/>
+
+    <item android:id="@+id/nav_reviews"
+        android:icon="@mipmap/round_star_rate_black_24dp"
+        android:title="Reviews"/>
+
+</menu>

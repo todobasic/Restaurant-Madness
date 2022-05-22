@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Restaurant Madness</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="burgers">
+        <item>Hamburger</item>
+        <item>Cheeseburger</item>
+        <item>Black Bean Burger</item>
+        <item>Mushroom Cheeseburger</item>
+        <item>Loco Moco Rice Burger</item>
+        <item>Fried Chicken Sandwich</item>
+        <item>Sweet Potato Burger</item>
+        <item>Hummus Veggie Sandwich</item>
+    </string-array>
+
+    <string-array name="burger_desc">
+        <item>3$</item>
+        <item>5$</item>
+        <item>7$</item>
+        <item>7$</item>
+        <item>9$</item>
+        <item>12$</item>
+        <item>10$</item>
+        <item>7$</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
